@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>News</title>
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
 <div id="page">
 <p>
 Вербена – це квітка кохання. Вона наділена магічними властивостями та безмежною силою. Адже кохання дійсно кришить скелі. 
@@ -36,5 +28,3 @@
 
 </p>
 </div>
-</body>
-</html>

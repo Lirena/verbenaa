@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>News</title>
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body link="#006400" vlink="#006400" alink="#006400">
-	
 	<footer>
+	<link rel="stylesheet" href="/style.css" type="text/css"/>
 	<div id="foot">
 	<div id="footmenu">
 	
@@ -46,6 +38,4 @@
 	
 	</footer>
 	
-	
-	</body>
-</html>
+

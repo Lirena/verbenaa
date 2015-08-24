@@ -6,10 +6,10 @@ include("header.php");
  <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
-		<title>News</title>
-		<link rel="stylesheet" href="style.css">
-	</head>
+<meta charset="utf-8">
+<title>Вербена</title>
+<link rel="stylesheet" href="/style.css" type="text/css"/>
+</head>
 	<body>
 	<div>
 	<div id="page">
