@@ -1,0 +1,106 @@
+@charset "windows-1251";
+body{
+	background-image: linear-gradient(to bottom, #FFFFFF 0%, #CEFFA3 100% );
+	height: 100%;
+	width: 100%;
+}
+#page{
+	position: relative;
+	width: 1000px;
+	height: 100%;
+	margin: 0;
+	
+}
+/* header styles*/
+
+#tabs26{position:relative;display:block;height:60px; width: 1000px;font-size:24px;background:#BCEE68;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase;}
+#tabs26 ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+#tabs26 ul li{display:block;float:left;margin:0 1px 0 0; width: 188px;}
+#tabs26 ul li a{display:block;float:left;color:#EEFFDF;text-decoration:none;padding:14px 22px 0 22px;height:46px;}
+#tabs26 ul li a:hover,#tabs26 ul li a.current{color:#fff;background:#9ACD32;}
+
+#headimage {
+ width: 1000px;
+}
+
+/* footer styles */
+footer{
+	position: relative;
+		
+}
+
+#footmenu{
+	position: relative;
+	float: left;
+	width: 220px;
+	height: 220px;
+	margin: 15px;
+	color: #006400;
+	display: block;
+	
+	
+}
+#foot {
+	 
+	 width: 1000px;
+	 height: 250px;
+	 background-color: #BCEE68;
+	 
+ }
+ 
+ #footli  ul{
+	list-style: none;
+		float: none;
+		margin: 20px; 
+	
+ }
+ #footli ul li a:hover{color:#32CD32;}
+ 
+ #footsocial ul{
+	list-style: none;
+		float: none;
+		margin: 20px;
+ }
+ 
+ #footsocial p{
+	 color: #006400;
+ }
+ #icons {
+	 width: 40px;
+	 margin: 5px;
+ }
+
+ /* contacts styles */
+ 
+ li {
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+
+#contact{
+	position: relative;
+    width: 100%;
+    height: 300px;
+    float: left;
+    margin: 20px;
+}
+
+#contactimage {
+	width: 180px;
+	border-radius: 100px;
+	position: absolute;
+    top: 0;
+    left: 0;
+}
+#contactinfo{
+	position: absolute;
+    top: 0%;
+    left: 250px;
+    width: 500px;
+    height: 100px;
+}
+#contactname{
+	text-align: left;
+	font-weight: bold;
+}
