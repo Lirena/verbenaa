@@ -1,5 +1,4 @@
 	<footer>
-	<link rel="stylesheet" href="/style.css" type="text/css"/>
 	<div id="foot">
 	<div id="footmenu">
 	

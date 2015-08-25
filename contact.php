@@ -1,9 +1,6 @@
-<?php 
-header('Content-type: text/html; charset=utf-8');
-include("header.php");
- ?>
- 
- <!DOCTYPE html>
+<?php header('Content-type: text/html; charset=utf-8'); ?>
+
+<!DOCTYPE html>
 <html>
 	<head>
 <meta charset="utf-8">
@@ -11,6 +8,7 @@ include("header.php");
 <link rel="stylesheet" href="/style.css" type="text/css"/>
 </head>
 	<body>
+	<? include('header.php')?> 
 	<div>
 	<div id="page">
        <ul>
@@ -48,12 +46,13 @@ include("header.php");
   </ul>
    
 </div>	
-</body>
-</html>
-
-<?php 
+<?
 include("footer.php");
 
  ?>
  
+</body>
+</html>
+
+
 
